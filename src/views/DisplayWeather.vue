@@ -185,12 +185,7 @@
 import { mapGetters, mapActions } from "vuex";
 
 export default {
-    name: 'DisplayWeather',
-    
-    data: () => ({
-        
-    }),
-    
+    name: 'DisplayWeather',    
     methods: {
         ...mapActions(['GetCity'])
     },
