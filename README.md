@@ -1,4 +1,4 @@
-# newassignment
+# City Weather Display
 
 ## Project setup
 ```
